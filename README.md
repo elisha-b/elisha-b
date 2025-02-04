@@ -3,4 +3,4 @@ Hi there 👋
 - 🌱 I’m currently studying a Certificate IV in Information Technology (Programming)
 - 💬 Learning HTML/CSS, Javascript, Python, C#, XAML, MySQL
 - 🔭 Exploring Github
-- 🎨 Fun fact: I'm a digital artist
+- 🧠 Writing stories, drawing comics, mechanical keyboards and digital art tickle my brain
